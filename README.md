@@ -4,5 +4,5 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Junior Software Developer #1 at Generation Thailand
+- 🌱 I’m a learner Junior Software Developer #1 at Generation Thailand
 - 😊 I’m a new learner React.
